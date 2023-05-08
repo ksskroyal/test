@@ -1,0 +1,53 @@
+{
+	"CookingRecipe":
+	[
+		{
+			"ID":"<CookingRecipe><Piz><255158049>",
+			"Name":"Pizza",
+			"Cal":3923,
+			"Time":477,
+			"Ingredient":[
+				{
+					"Name":"Tomato paste",
+					"Value":28
+				},
+				{
+					"Name":"Zucchini",
+					"Value":71
+				},
+				{
+					"Name":"Lamb",
+					"Value":13
+				},
+				{
+					"Name":"Tomato paste",
+					"Value":75
+				},
+				{
+					"Name":"Thyme",
+					"Value":44
+				}
+			]
+		},
+		{
+			"ID":"<CookingRecipe><Rat><50260>",
+			"Name":"Ratatouille",
+			"Cal":2417,
+			"Time":762,
+			"Ingredient":[
+				{
+					"Name":"Potato",
+					"Value":32
+				},
+				{
+					"Name":"Lamb",
+					"Value":83
+				},
+				{
+					"Name":"Сucumbers",
+					"Value":2
+				}
+			]
+		}
+	]
+}

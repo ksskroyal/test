@@ -1,0 +1,6 @@
+/Users/assassin/Desktop/task_2/task3_build/CMakeFiles/server.dir
+/Users/assassin/Desktop/task_2/task3_build/CMakeFiles/client.dir
+/Users/assassin/Desktop/task_2/task3_build/CMakeFiles/edit_cache.dir
+/Users/assassin/Desktop/task_2/task3_build/CMakeFiles/rebuild_cache.dir
+/Users/assassin/Desktop/task_2/task3_build/ext/nlohmann/CMakeFiles/edit_cache.dir
+/Users/assassin/Desktop/task_2/task3_build/ext/nlohmann/CMakeFiles/rebuild_cache.dir
